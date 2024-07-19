@@ -1,5 +1,5 @@
 //
-//  Location.swift
+//  Constants.swift
 //  Weatherly
 //
 //  Created by sade on 7/19/24.

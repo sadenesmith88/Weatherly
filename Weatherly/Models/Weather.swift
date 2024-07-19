@@ -2,15 +2,7 @@
 //  Weather.swift
 //  Weatherly
 //
-//  Created by Mohammad Azam on 11/2/23.
+//  Created by sade on 7/19/24.
 //
 
 import Foundation
-
-struct WeatherResponse: Decodable {
-    let main: Weather
-}
-
-struct Weather: Decodable {
-    let temp: Double
-}
